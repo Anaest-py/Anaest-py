@@ -12,7 +12,7 @@ Hi, there! 👋
 I am a Data Analytics and Machine Learning Enthusiast.
 
 - 🔭 I’m currently working on AWS Machine Learning Scholarship Program!
-- 🌱 I’m currently in the Data Scinece learning track in Women Techsters Fellowship Programme.
+- 🌱 I’m currently in the Data Science learning track in Women Techsters Fellowship Programme.
 - 👯 I’m looking to collaborate on Data Science Competitions on Kaggle.
 - 🤔 I’m looking for help with making Machine Learning process more understandable for me.
  
