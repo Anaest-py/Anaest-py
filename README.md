@@ -14,7 +14,7 @@ I am a Data Analytics and Machine Learning Enthusiast.
 - 🔭 I’m currently working on AWS Machine Learning Scholarship Program!
 - 🌱 I’m currently in the Data Science learning track in Women Techsters Fellowship Programme.
 - 👯 I’m looking to collaborate on Data Science Competitions on Kaggle.
-- 🤔 I’m looking for help with making Machine Learning process to be more understandable for me.
+- 🤔 I’m looking for help with making Machine Learning process for more understanding.
  
  ## <h3 align="left">GitHub Stats</h3>
 [![My Activity graph](https://activity-graph.herokuapp.com/graph?username=Anaest-py&theme=xcode)](https://git.io/Anaest-py)
