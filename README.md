@@ -5,7 +5,7 @@ Hi, there! 👋
  You can connect with me :handshake: on:
  
 <a href="https://www.linkedin.com/in/esther-anagu/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127322282-7425390a-7189-4369-af5b-fb06ff765017.png" alt="https://www.linkedin.com/ju-alaba-b038b51b4/" height="30" width="40" /></a>
-<a href="https://twitter.com/AnaguEsther" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127322538-98e168fb-a6e6-4790-a412-aa53cdaff612.png" alt="chryz_codez" height="30" width="40" /></a> 
+<a href="https://twitter.com/Starr_Anagxy" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127322538-98e168fb-a6e6-4790-a412-aa53cdaff612.png" alt="chryz_codez" height="30" width="40" /></a> 
 <a href="https://web.facebook.com/anagu.esther.5/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127181595-6f0fb2fd-9ebb-4c79-b762-8072881bcd7d.png" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anaest_in_tech/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/65473425/127182240-9dc14b67-aa84-43d9-abdd-49800606d7c3.png" height="30" width="40" /></a>
 
