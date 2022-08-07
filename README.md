@@ -1,6 +1,6 @@
 Hi, there! 👋
 
-# I'm [Anagu Esther Chinenye](https://anaest-py.github.io/My-Portfolio/) :slightly_smiling_face:, a Women Techsters Fellow.
+# I'm [Anagu Esther Chinenye](https://anaest-py.github.io/My-Portfolio/) :slightly_smiling_face:, a Data Scientist and a Women Techsters Fellow.
 
  You can connect with me :handshake: on:
  
